@@ -1,0 +1,8 @@
+source,capacity_2022_MW,capacity_2040_target_MW,addition_MW,source_note
+Hydropower,2400,3157,757,"ICE PEG 2022-2040"
+Geothermal,208,976,768,"ICE PEG 2022-2040"
+Wind,400,994,594,"ICE PEG 2022-2040"
+Solar,100,474,374,"ICE PEG 2022-2040"
+Biomass,23,323,300,"ICE PEG 2022-2040"
+Thermal (fossil),387,0,-387,"Phase-out under Decarbonization Plan"
+Total,3518,5924,2406,"ICE PEG 2022-2040 (target: 5637 MW)"

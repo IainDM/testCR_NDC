@@ -1,0 +1,9 @@
+year,energy_MtCO2e,agriculture_MtCO2e,waste_MtCO2e,ippu_MtCO2e,total_excl_lulucf_MtCO2e,lulucf_MtCO2e,total_net_MtCO2e,source
+2005,5.50,3.10,1.30,0.60,10.50,2.50,13.00,"BUR2/Climate Watch estimate"
+2010,6.20,3.30,1.60,0.80,11.90,0.50,12.40,"BUR2/Climate Watch estimate"
+2012,6.40,3.35,1.70,0.90,12.35,-0.50,11.85,"BUR2/Climate Watch estimate"
+2015,6.80,3.50,1.85,1.10,13.25,-1.50,11.75,"BUR2 (NDC reference year)"
+2017,7.10,3.55,1.95,1.20,13.80,-3.00,10.80,"National GHG Inventory"
+2019,7.50,3.65,2.10,1.40,14.65,-3.20,11.45,"National GHG Inventory"
+2020,6.80,3.60,2.05,1.35,13.80,-3.10,10.70,"National GHG Inventory (COVID impact)"
+2021,7.66,3.74,2.18,1.47,15.05,-3.00,12.05,"Climate Watch/WRI"
