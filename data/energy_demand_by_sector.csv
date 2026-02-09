@@ -1,0 +1,9 @@
+year,transport_PJ,industry_PJ,residential_PJ,commercial_PJ,agriculture_PJ,total_final_PJ,source
+2010,58.0,18.0,10.5,8.5,5.0,100.0,"IEA/OWID estimate"
+2015,63.0,19.5,11.0,9.0,5.5,108.0,"IEA/OWID estimate"
+2018,65.0,20.0,11.5,9.5,5.5,111.5,"IEA (aligned with TPES)"
+2019,66.0,20.5,11.5,9.5,5.5,113.0,"IEA/OWID estimate"
+2020,55.0,18.0,12.0,8.0,5.0,98.0,"IEA (COVID impact)"
+2021,60.0,19.0,11.5,9.0,5.5,105.0,"IEA/OWID estimate"
+2022,63.0,19.5,11.5,9.5,5.5,109.0,"IEA/OWID estimate"
+2023,64.0,20.0,12.0,9.5,5.5,111.0,"IEA/OWID estimate"
