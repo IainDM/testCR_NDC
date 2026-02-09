@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "feo-data": {
+      "command": "node",
+      "args": ["/root/dist/servers/data-server.js"]
+    }
+  }
+}
